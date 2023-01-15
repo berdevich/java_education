@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b07528b-5b11-4509-a631-97d2326473a9" name="Changes" comment="lr5">
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr6/Example9.java" afterDir="false" />
+    <list default="true" id="8b07528b-5b11-4509-a631-97d2326473a9" name="Changes" comment="lr6">
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_1/subClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_1/superClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_2/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_2/subClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_2/superClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_3/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_3/FirstSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_3/SecondSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_3/ThirdSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_4/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_4/FirstSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_4/SecondSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_4/ThirdSubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_5/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_5/FirstSubOneClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_5/FirstSubTwoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/lr7_5/SecondSubClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr6/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr6/Example1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +49,6 @@
   <component name="ProjectId" id="2I88x26KJnJhBN6eXtALYPS7E9C" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -50,13 +58,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example10">
-    <configuration name="Example10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example10" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="lr7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Example5">
+    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.lr7_3.Example3" />
       <module name="java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.*" />
+          <option name="PATTERN" value="lr7.lr7_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example7" />
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.lr7_4.Example4" />
       <module name="java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.*" />
+          <option name="PATTERN" value="lr7.lr7_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example8" />
+    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.lr7_5.Example5" />
       <module name="java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.*" />
+          <option name="PATTERN" value="lr7.lr7_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example9" />
+    <configuration name="Lab7_08_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab7_08_05.Lab7_08_05" />
       <module name="java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.*" />
+          <option name="PATTERN" value="Lab7_08_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab6_08_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Lab6_08_07" />
+    <configuration name="lr7.lr7_5.Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr7.lr7_5.Example1" />
       <module name="java_education" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.*" />
+          <option name="PATTERN" value="lr7.lr7_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example10" />
-        <item itemvalue="Application.Example9" />
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Lab6_08_07" />
+        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Lab7_08_05" />
+        <item itemvalue="Application.lr7.lr7_5.Example1" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671891522217</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lr6">
+      <created>1673198677246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673198677246</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +245,7 @@
     <MESSAGE value="lr3" />
     <MESSAGE value="lr4" />
     <MESSAGE value="lr5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr5" />
+    <MESSAGE value="lr6" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr6" />
   </component>
 </project>
